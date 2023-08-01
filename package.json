@@ -4,7 +4,8 @@
   "description": "Juste project finish year",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "build":"npm i "
   },
   "author": "Youssef Fathallah",
   "license": "ISC",
