@@ -21,9 +21,7 @@
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "build": "npm install && npm run build",
-    "build:subdir": "npm install && npm run build && npm start"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
